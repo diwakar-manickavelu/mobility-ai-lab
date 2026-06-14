@@ -1,0 +1,5 @@
+Host runpod
+  HostName ssh.runpod.io
+  User <POD_HOST_ID>
+  IdentityFile ~/.ssh/runpod_ed25519
+  IdentitiesOnly yes
